@@ -1,4 +1,4 @@
-# Atlant Hawks Intern Assessment
+# Atlanta Hawks Intern Assessment
 Eugene Tiwat Tulyagijja - Round 2 Programming Assessment Submission
 
 1. A folder attached with Python code from each question seperated
