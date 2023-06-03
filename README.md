@@ -1,4 +1,4 @@
-# <img width="50" alt="image" src="https://github.com/EugeneTul/HawksInternAssessment/assets/82907392/5721ba9d-53aa-4aee-830b-a78a282569a4"> Atlanta Hawks Intern Assessment 
+# <img width="50" alt="image" src="https://github.com/EugeneTul/HawksInternAssessment/assets/82907392/5721ba9d-53aa-4aee-830b-a78a282569a4"> Atlanta Hawks Intern Assessment <img width="50" alt="image" src="https://github.com/EugeneTul/HawksInternAssessment/assets/82907392/5721ba9d-53aa-4aee-830b-a78a282569a4">
 
 
 Eugene Tiwat Tulyagijja - Round 2 Programming Assessment Submission
