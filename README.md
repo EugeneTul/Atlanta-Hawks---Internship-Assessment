@@ -3,10 +3,7 @@
 
 Eugene Tiwat Tulyagijja - Round 2 Programming Assessment Submission
 
-1. Python Files
-Part 1 - Data Comprehension attached as .ipynb
-Part 2 - Analytical Acumen attached as .ipynb
-
+1. 2 Python Files: Part 1 - Data Comprehension attached as .ipynb, Part 2 - Analytical Acumen attached as .ipynb
 2. Visuals and answers are attached as PDF
 3. Resume attached as PDF
 
