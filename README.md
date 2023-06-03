@@ -1,7 +1,7 @@
 # Atlant Hawks Intern Assessment
 Eugene Tiwat Tulyagijja - Round 2 Programming Assessment Submission
 
-1. Python file attached contains all the code for the questions
+1. A folder attached with Python code from each question seperated
 2. Visuals and answers are attached as PDF
 3. Resume attached as PDF
 
