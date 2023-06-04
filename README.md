@@ -8,8 +8,8 @@ Eugene Tiwat Tulyagijja - Round 2 Programming Assessment Submission
 <div> <div> 1.1 Part 1 - Data Comprehension attached as .ipynb 
 <div> <div> 1.2 Part 2a - Analytical Acumen attached as .ipynb (Random Forest Model)
 <div> <div> 1.3 Part 2b - Analytical Acumen attached as .ipynb (College and NBA team Value)
-
-  
+<div>
+<div>
 2. Visuals and answers are attached as PDF
 3. Resume attached as PDF
 4. Attached folder with CSV results, this include(training data, testing data, college value, and team value)
